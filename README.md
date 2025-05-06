@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Selene, a college student.
-- 👀 I’m interested in learning how to program and get started on free-lancing jobs.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m Lunamachi, a college student.
+- 👀 I’m interested in learning how to program, more specifically in game development.
+- 🌱 I’m currently learning the Game Maker engine.
 - 💞️ I’m looking to collaborate on anything I'm capable to do.
 - 📫 How to reach me: itszemoff@gmail.com
 - ⚡ Fun fact: i might be mariya mikhailovna kujou from the hit series alya san sometimes hides her feelings in russian but doesn't anymore in the recent volumes of the light novel
